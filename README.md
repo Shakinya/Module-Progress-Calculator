@@ -1,5 +1,4 @@
 # Module-Progress-Calculator
-----------------------------
 
 ## Overview
 This project is a **Student Progress Tracker** that evaluates students' academic progress based on their credit scores in pass, defer, and fail categories. The system categorizes students into different outcomes and provides a histogram representation.
